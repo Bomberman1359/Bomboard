@@ -23,5 +23,5 @@ I wanted to learn more about schematics, wiring, PCB, and 3D modeling. As someon
 | Stabilizer set | 1 | [Divinikey](https://jlcpcb.com/) | $11.00 |
 | Keycaps Set| 1 | [Amazon](https://www.amazon.com/Womier-Pudding-Keycaps-100-Percent/dp/B0DB4Z6DMS/ref=sr_1_4?crid=3KDSGFET7R3PW&dib=eyJ2IjoiMSJ9.JXTwjGdToK3WZEH4x7wFjjcMgp3TTPoNjdzpdxdQVgSHMkKCM3K1UQXigcpua9MdYIqJtKjmeekwVAu9vGDxT6nALVuQltDVwMgUqYsUHxBDTm3vLYU9XO3WX6_CRoCUf1UHvEwgMiXLOVtKKSAhyrsmoaTP-IWt4scI0ptknhSZiXKoMoXzRBTZNzhqpnvYZ7vWStdUbOes3QbC9iO88euB4x_6QWYsmUlvxiN9ol6HuYmnZpW-kDZQ4B3cP-TrFnPHNfEt-rMB7Xzw2pRuJncPvS_wAUjKVpEICK8Bqcc.ESKlCixw82J9ZDOgV03xSDnqUloHnb8AKA523uXzZJI&dib_tag=se&keywords=normal%2Bkey%2Bcaps&qid=1751660071&s=electronics&sprefix=normal%2Bkey%2Bcaps%2Celectronics%2C144&sr=1-4&th=1) | $14.99 |
 
-Net Total Cost: $111.94
+Net Total Cost: $133.77
 
