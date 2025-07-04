@@ -1,3 +1,9 @@
+---
+title: "Bomboard"
+author: "Chunhwee Choi"
+description: "Basic custom keyboard"
+created_at: "2025-06-20"
+---
 # Design Journal
 Total Number of Hours Spent: 25 Hours
 
