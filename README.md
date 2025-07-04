@@ -16,7 +16,7 @@ I wanted to learn more about schematics, wiring, PCB, and 3D modeling. As someon
 ## BOM
 |    Item    | Quantity | Vendor | Total Price |
 | :-------- | :-------: | :----- | ----------: |
-| PCB | 1 | JLCPB | $78.00 |
+| PCB | 1 | JLCPB | $74.23 |
 | Raspberry Pi Pico | 1 | [Seeed Studio](https://www.seeedstudio.com/Raspberry-Pi-Pico-2-p-5940.html?srsltid=AfmBOopNDN0RoseM_BDfpGL9q782IZnb89sHLu-LgA_pmGtyh8bIAI12ZJQ&gQT=2) | $5.00 |
 | Key switches |  64  |  [Mechanical](https://mechanicalkeyboards.com/products/cherry-mx2a-blue-60g-clicky?_pos=1&_fid=016d7ed23&_ss=c)| $25.60 |
 | Rotary Encoder | 1    | [SynthCube](https://synthcube.com/rotary-encoder/?gQT=1) | $2.95 | 
