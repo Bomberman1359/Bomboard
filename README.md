@@ -13,6 +13,9 @@ I wanted to learn more about schematics, wiring, PCB, and 3D modeling. As someon
 ## Case
 <img width="663" alt="Screenshot 2025-07-04 at 12 51 43 PM" src="https://github.com/user-attachments/assets/bb8148b5-53cd-419f-a30f-47527814f306" />
 
+## Case and PCB combined 
+<img width="908" alt="Screenshot 2025-07-06 at 5 43 42 PM" src="https://github.com/user-attachments/assets/b4908982-4934-48e8-90c3-7a7994d7a8f8" />
+
 ## BOM
 |    Item    | Quantity | Vendor | Total Price |
 | :-------- | :-------: | :----- | ----------: |
